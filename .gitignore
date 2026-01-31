@@ -1,0 +1,90 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built with `go test -c`
+*.test
+
+# Output of the go coverage tool
+*.out
+coverage.out
+coverage.html
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# IDE and editor directories
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Environment and secrets
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# AI assistant files
+.claude/
+.cursor/
+.aider*
+.continue/
+CLAUDE.md
+NEXT_STEPS.md
+.anthropic/
+copilot-*
+.copilot/
+.github/copilot/
+
+# Debug files
+debug
+debug.test
+*.log
+*.prof
+
+# Build outputs
+bin/
+dist/
+build/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Benchmark results (can be regenerated)
+benchmark.txt
+*.bench
+
+# Local development
+local/
+scratch/
+notes/
+TODO.md
+
+# Generated documentation (if using godoc)
+_site/
+docs/_site/
+LICENSE
