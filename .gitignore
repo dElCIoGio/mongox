@@ -55,7 +55,9 @@ NEXT_STEPS.md
 .anthropic/
 copilot-*
 .copilot/
-.github/copilot/
+
+# GitHub workflows (excluded for now)
+.github/
 
 # Debug files
 debug
@@ -87,4 +89,3 @@ TODO.md
 # Generated documentation (if using godoc)
 _site/
 docs/_site/
-LICENSE

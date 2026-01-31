@@ -408,10 +408,6 @@ Contributions are welcome! See [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelin
 - **Minimal abstraction** - Stay close to MongoDB's power
 - **Testability** - Business rules can be tested without a database
 
-## License
-
-MIT License - see [LICENSE](./LICENSE) for details.
-
 ## Acknowledgments
 
 Inspired by:
